@@ -148,3 +148,5 @@ void run ()
 // Jonas 20/06/2019 11:20
 
 // Secondary editing to test commit features
+
+//  Fourth Edit to the test branching and merging
