@@ -149,4 +149,9 @@ void run ()
 
 // Secondary editing to test commit features
 
+<<<<<<< HEAD
 //  Fourth Edit to the test branching and merging
+=======
+// Tertiairy Change to test commit command features
+
+>>>>>>> FourChange
